@@ -9,7 +9,7 @@ const Footer = () => (
       <div className="footer__links-container  bg-darken sm:px-16 px-6 py-10 w-full">
         <div className="footer__rights">
           <Image
-            src="/logo.png"
+            src="./logo.png"
             alt="logo"
             width={180}
             height={18}

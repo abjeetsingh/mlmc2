@@ -34,7 +34,7 @@ const NavBar = () => {
         <nav className="max-width flex-between padding-x padding-y">
           <Link href="/" className="flex-center">
             <Image
-              src="/logo.png"
+              src="./logo.png"
               alt="logo"
               width={150}
               height={28}
